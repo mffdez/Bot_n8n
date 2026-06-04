@@ -7,7 +7,7 @@
 <div align="center">
 
 [![Made with n8n](https://img.shields.io/badge/Built%20with-n8n-orange?style=for-the-badge&logo=n8n)](https://n8n.io/)
-[![Powered by ChatGPT](https://img.shields.io/badge/Powered%20by-ChatGPT-10a37f?style=for-the-badge&logo=openai)](https://openai.com/)
+[![Powered by Grok](https://img.shields.io/badge/Powered%20by-ChatGPT-10a37f?style=for-the-badge&logo=openai)](https://openai.com/)
 [![Telegram Bot](https://img.shields.io/badge/Platform-Telegram-2CA5E0?style=for-the-badge&logo=telegram)](https://telegram.org/)
 
 </div>
@@ -18,7 +18,7 @@
 
 ## Descripción
 
-**Bot de Telegram** es un bot que permite mantener conversaciones fluidas con modelos de lenguaje avanzados (LLMs) como ChatGPT directamente desde Telegram. Sin necesidad de abrir el navegador ni navegar por interfaces complejas — simplemente escribe tu mensaje y recibe una respuesta inteligente al instante.
+**Bot de Telegram** es un bot que permite mantener conversaciones fluidas con modelos de lenguaje avanzados (LLMs) como Grok directamente desde Telegram. Sin necesidad de abrir el navegador ni navegar por interfaces complejas — simplemente escribe tu mensaje y recibe una respuesta inteligente al instante.
 
 ---
 
@@ -28,7 +28,7 @@
 
 | Característica | Descripción |
 |:-:|:--|
-| **Conversación natural** | Interactúa con ChatGPT como si fuera un contacto más en Telegram |
+| **Conversación natural** | Interactúa con Grok como si fuera un contacto más en Telegram |
 | **Respuestas rápidas** | El bot procesa y responde en cuestión de segundos |
 | **Conversaciones continuas** | Encadena múltiples mensajes de forma fluida |
 | **Modelo GPT integrado** | Aprovecha toda la potencia de los modelos de OpenAI |
@@ -58,7 +58,7 @@ El bot está construido sobre **n8n**, una plataforma de automatización de fluj
                  │
                  ▼
 ┌─────────────────────────────────┐
-│  API de ChatGPT                 │
+│  API de Grok                    │
 │  Procesa y razona la respuesta  │
 └────────────────┬────────────────┘
                  │
