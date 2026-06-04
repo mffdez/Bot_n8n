@@ -18,7 +18,7 @@
 
 ## Descripción
 
-**Telegram AI Bot** es un bot que permite mantener conversaciones fluidas con modelos de lenguaje avanzados (LLMs) como ChatGPT directamente desde Telegram. Sin necesidad de abrir el navegador ni navegar por interfaces complejas — simplemente escribe tu mensaje y recibe una respuesta inteligente al instante.
+**Bot de Telegram** es un bot que permite mantener conversaciones fluidas con modelos de lenguaje avanzados (LLMs) como ChatGPT directamente desde Telegram. Sin necesidad de abrir el navegador ni navegar por interfaces complejas — simplemente escribe tu mensaje y recibe una respuesta inteligente al instante.
 
 ---
 
